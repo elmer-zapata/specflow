@@ -1,1 +1,1 @@
-{"uid":"98d3104e051c652961429bf95fa0b5d6","children":[],"name":"suites"}
+{"uid":"98d3104e051c652961429bf95fa0b5d6","children":[{"name":"Get by id","uid":"77e4d0c576c289dc","parentUid":"98d3104e051c652961429bf95fa0b5d6","status":"passed","time":{"start":1685398384091,"stop":1685398384535,"duration":444},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":false,"parameters":[]}],"name":"suites"}
