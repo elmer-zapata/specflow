@@ -1,1 +1,1 @@
-{}
+{"Get by id":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"439e0cf2118af4dd","reportUrl":"https://elmer-zapata.github.io/specflow/11//#testresult/439e0cf2118af4dd","status":"passed","time":{"start":1685397479999,"stop":1685397480742,"duration":743}}]}}
